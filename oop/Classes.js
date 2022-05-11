@@ -41,3 +41,9 @@ let nameObj = new ClassName(); //u must pass the class name
 /*                                    super                                   */
 /* -------------------------------------------------------------------------- */
 // super : is used to access the parent class (inheritance)
+
+
+/* -------------------------------------------------------------------------- */
+/*                                    this                                    */
+/* -------------------------------------------------------------------------- */
+// this is use to for variety of different purpose but now we are using it reference to current object instance
